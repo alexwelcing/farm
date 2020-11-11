@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
-  "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "name": "hugo-farm",
+  "version": "1.0.1",
+  "description": "Hugo boilerplate applied to ouid.farm!",
+  "repository": "alexwelcing/farm",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
